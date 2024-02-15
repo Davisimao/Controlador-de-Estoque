@@ -37,7 +37,7 @@ O Controle de Estoque é uma aplicação de uma única página (SPA) que oferece
 
 ### Ou
 
-**Visite o site:** [Controle de Estoque SPA](https://controladordeestoque-davisimao.netlify.app/)
+**Visite o site:** [Controle de Estoque](https://controladordeestoque-davisimao.netlify.app/)
 
 ## Autor
 
