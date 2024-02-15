@@ -1,5 +1,3 @@
-**Read.me - Controle de Estoque SPA**
-
 **Visite o site:** [Controle de Estoque SPA](https://controladordeestoque-davisimao.netlify.app/)
 
 ---
